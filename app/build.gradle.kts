@@ -14,7 +14,7 @@ android {
     namespace = "fr.smarquis.appstore"
     compileSdk = 34
     defaultConfig {
-        applicationId = "fr.smarquis.appstore"
+        applicationId = "info.hannes.appstore"
         minSdk = 19
         targetSdk = 34
         versionCode = versionMajor * 10000 + versionMinor * 1000 + versionPatch * 100 + versionBuild
