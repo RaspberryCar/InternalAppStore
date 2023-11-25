@@ -116,3 +116,5 @@ Temporary Items
 **/.firebaserc
 **/database-local.rules.json
 **/storage-local.rules
+
+*.keystore
